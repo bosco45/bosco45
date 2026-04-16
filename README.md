@@ -63,7 +63,7 @@ Currently working on real-time workflows, asset optimization, and pipeline break
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bosco45&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bosco45&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&rank_icon=github&card_width=420" width="58%"/>
 </p>
 
 ---
