@@ -32,13 +32,23 @@ Over time, I’ve become more interested in how things work behind the scenes �
 
 ---
 
-## 📌 Philosophy
+## 🔍 What makes me different
 
-> It's not just about making things look good.  
-> It's about making them work.
+- I think beyond visuals — I consider performance, structure, and scalability  
+- I care about clean pipelines, not just final results  
+- I approach 3D work with a technical mindset  
+
+---
+
+## 📌 Approach
+
+I focus on bridging the gap between art and systems.
+
+Not just how things look, but how they behave, scale, and integrate into real-time production environments.
 
 ---
 
 ## 📫 Let's connect
 
-- LinkedIn: https://www.linkedin.com/in/annya-fraysheht-852b18307/
+- LinkedIn: https://www.linkedin.com/in/annyafrayshehtd/
+- Open to collaborations and Technical Art opportunities
