@@ -10,14 +10,13 @@ I build 3D assets that not only look good — but actually work in production.
 ## 🧠 About Me
 
 I’m a 3D Artist transitioning into Technical Art, focused on real-time environments using Unreal Engine and Blender.
-What interests me most is understanding how things behave behind the scenes — performance, structure, and scalability — not just how they look.
+What drives me is understanding how things behave behind the scenes — performance, structure, and scalability — not just how they look.
 
 ---
 
 ## 🔍 What I Do
 
 I focus on creating production-ready assets for real-time engines, building clean workflows between Blender and Unreal Engine, and making sure everything is optimized and scalable.
-
 My work is not just about creating assets, but about understanding how they fit into a larger system.
 
 ---
@@ -50,23 +49,18 @@ I care about clean pipelines and efficient workflows, not just final visuals. Th
 ## 📌 Approach
 
 I focus on bridging the gap between art and systems.
+
 Not just how things look, but how they behave, scale, and integrate into real-time production environments.
 
 ---
 
-## 🚀 Featured Work (Coming Soon)
+## 🚀 Featured Work
 
-Currently working on real-time workflows, asset optimization, and pipeline breakdowns between Blender and Unreal Engine.
+Coming soon:
+- Blender → Unreal pipeline breakdown  
+- Asset optimization case studies  
+- Real-time environment workflows  
 
----
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bosco45&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&rank_icon=github&card_width=420" width="60%"/>
-</p>
 ---
 
 ## 📫 Connect with me
