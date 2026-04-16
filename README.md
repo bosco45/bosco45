@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Annya
 
 I’m a 3D Artist focused on becoming a Technical Artist, working with tools like Unreal Engine and Blender.
-
 Over time, I’ve become more interested in how things work behind the scenes — not just how they look.
 
 ---
