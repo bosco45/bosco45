@@ -2,26 +2,25 @@
 <h3 align="center">Technical Artist (3D & Real-Time)</h3>
 
 <p align="center">
-Bridging the gap between art and systems in real-time environments
+I build 3D assets that not only look good — but actually work in production.
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎯 Focused on becoming a Technical Artist  
-- 🎮 Working with Unreal Engine & Blender  
-- ⚙️ Interested in real-time workflows, optimization & pipelines  
-- 🧩 I care about how things **work**, not just how they look  
+I’m a 3D Artist transitioning into Technical Art, focused on real-time environments using Unreal Engine and Blender.
+
+What drives me is understanding **how things behave behind the scenes** — performance, structure, and scalability — not just how they look.
 
 ---
 
 ## 🔍 What I Do
 
-- Build production-ready 3D assets  
-- Create clean workflows (Blender → Unreal Engine)  
-- Optimize assets for real-time performance  
-- Think in systems, not just individual assets  
+- Design **production-ready assets** for real-time engines  
+- Build **clean pipelines (Blender → Unreal Engine)**  
+- Optimize assets for **performance and scalability**  
+- Think in terms of **systems, not isolated assets**  
 
 ---
 
@@ -39,9 +38,17 @@ Bridging the gap between art and systems in real-time environments
 
 ## 🚧 Current Focus
 
-- Improving asset pipelines  
-- Learning Technical Art principles  
-- Building real-time optimized projects  
+- Developing structured asset pipelines  
+- Improving real-time optimization workflows  
+- Building projects that balance **visual quality + performance**  
+
+---
+
+## 🧩 What makes me different
+
+- I don’t just create assets — I think about how they **integrate into systems**  
+- I care about **pipelines, structure and efficiency**, not just visuals  
+- I approach 3D work with a **technical mindset from the start**  
 
 ---
 
@@ -53,14 +60,19 @@ Not just how things look, but how they behave, scale, and integrate into real-ti
 
 ---
 
+## 🚀 Featured Work (Coming Soon)
+
+Working on:
+- Blender → Unreal pipeline breakdown  
+- Asset optimization case studies  
+- Real-time environment workflows  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bosco45&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosco45&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
